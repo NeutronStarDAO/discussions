@@ -18,4 +18,4 @@ Puedes mostrar tus ideas aquí.
 
 Você pode mostrar suas ideias aqui.
 
-       يمكنك عرض أفكارك هنا.
+يمكنك عرض أفكارك هنا.
